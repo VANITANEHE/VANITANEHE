@@ -15,7 +15,7 @@ Highly motivated **Data Analyst Learner** actively building a strong foundation 
 ## 📈 Connect With Me
 <p align="left">
   <a href="YOUR_LINKEDIN_URL" target="blank"><img src="https://shields.io" alt="https://www.linkedin.com/in/vanita-nehe-33b254231/" /></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="blank"><img src="https://shields.io" alt="vanitanehe555gmail.com" /></a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS" target="blank"><img src="https://shields.io" alt="vanitanehe555@gmail.com" /></a>
 </p>
 
 <!--<p align="center">
