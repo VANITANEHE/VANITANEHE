@@ -1,7 +1,10 @@
 ## Hi there 👋
-![Python](https://shields.io)
 
-<!--
+
+<!--<p align="center">
+  <img src="YOUR_UPLOADED_IMAGE_URL" width="400" alt="VANITA NEHE">
+</p>
+
 **VANITANEHE/VANITANEHE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
