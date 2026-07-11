@@ -1,6 +1,4 @@
-## Hi there 👋
-  <img src="https://vercel.app" alt="VANITA NEHE" />
-</p>
+## Hi there 👋, I am VANITA
 
 
 ## 👩‍💻 About Me
